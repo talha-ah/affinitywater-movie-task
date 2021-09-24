@@ -1,7 +1,7 @@
 {
-  "name": "movie-listings-task",
+  "name": "project-reactlix",
   "version": "1.0.0",
-  "description": "An incomplete and buggy movie listing.",
+  "description": "An move listing test",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
